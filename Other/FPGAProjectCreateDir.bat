@@ -1,0 +1,12 @@
+md chipscope    ::信号抓取
+md doc          ::项目文档
+md ipcore       ::IP核
+md mb           ::软核
+md ngc          ::网表
+md par          ::工程文件
+md prj          ::工程的BAT等
+md sdk          ::软核的.c文件
+md sim          ::仿真
+md src          ::源文件
+md sysgen       ::MATLAB文件
+md ucf          ::管脚分配
