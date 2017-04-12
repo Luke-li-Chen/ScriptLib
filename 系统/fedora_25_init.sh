@@ -19,7 +19,7 @@ dnf install php -y
 dnf install npm -y
 npm install http-server -g
 
-cp /run/media/root/'VMware Tools'/VMwareTools-10.1.6-5214329.tar.gz ~
-tar -xzv -f VMwareTools-10.1.6-5214329.tar.gz
-cd ~
-./vmware-tools-distrib/vmware-install.pl
+#cp /run/media/root/'VMware Tools'/VMwareTools-10.1.6-5214329.tar.gz ~
+#tar -xzv -f VMwareTools-10.1.6-5214329.tar.gz
+#cd ~
+#./vmware-tools-distrib/vmware-install.pl
